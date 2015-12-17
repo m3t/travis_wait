@@ -23,6 +23,9 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# Available from           https://github.com/m3t/travis_wait
+# Please report bugs at    https://github.com/m3t/travis_wait/issues
+
 # Coding (Style) Guidelines:
 # https://www.chromium.org/chromium-os/shell-style-guidelines
 # http://mywiki.wooledge.org/BashGuide/Practices
